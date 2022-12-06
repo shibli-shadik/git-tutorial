@@ -11,4 +11,9 @@ public class Hello
     {
         System.out.println("Welcome " + name);
     }
+
+    public static int sqr(int x)
+    {
+        return x*x;
+    }
 }
