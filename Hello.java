@@ -4,12 +4,12 @@ public class Hello
     {
         System.out.println("VS code is awesome");
 
-        greeting("Shibli");
+        greeting("Git");
     }
 
     public static void greeting(String name)
     {
-        System.out.println("Welcome " + name);
+        System.out.println("Bye Bye " + name);
     }
 
     public static int sqr(int x)
